@@ -35,3 +35,14 @@ Siga os passos abaixo para configurar e executar o projeto:
 
 ### 3️⃣ Configuração no Projeto
 - Salve e compile o projeto.
+
+## 📖 Licença  
+
+Este projeto foi desenvolvido para fins acadêmicos e não possui uma licença específica.  
+
+---
+
+## 👩‍💻 Autores  
+
+- **Gabriel Alves Soares**
+- **Thais Gomes de Oliveira e Silva**   
